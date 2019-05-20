@@ -27,7 +27,7 @@ present thesis project may be taken to comprise a first, pilot attempt
 to apply data mining techniques to students examinations data at a
 typical Higher Education Institution.
 
-### TOOLS:
-1. R (Rstudio)
-2. Microsoft Excel
-3. LaTeX
+## Used Tools:
+* __R__ (Rstudio)
+* __Microsoft Excel__
+* __LaTeX__
